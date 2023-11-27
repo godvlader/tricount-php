@@ -1,5 +1,5 @@
 # Tricount App
-Simplify Expense Sharing with Tricount, an intuitive app designed for efficient management of shared expenses among friends, coworkers, and more.
+Simplify Expense Sharing with Tricount, an intuitive app designed for efficient management of shared expenses among friends, coworkers, and more. Mobile friendly.
 
 ## Overview
 Tricount is a dynamic application developed to facilitate easy and fair expense sharing. Built with Object-Oriented Programming (OOP) and the Model-View-Controller (MVC) paradigm, it offers a comprehensive solution for tracking and settling group expenses.

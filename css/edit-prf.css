@@ -1,0 +1,81 @@
+.edit_profile {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.chprof-form-items {
+    margin-top: 25px;
+    display: inline-block;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #ccc;
+}
+
+label {
+    color: #333;
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px #ccc;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+    margin-top: 10px;
+    display: block;
+}
+
+.title{
+    color:black;
+    font-size: large;
+}
+
+@media (max-width: 576px) {
+    .edit_profile {
+        width: 95%;
+    }
+
+    label, input[type="text"], input[type="email"] {
+        font-size: 14px;
+        color: #333;
+    }
+
+    input[type="submit"] {
+        font-size: 14px;
+    }
+
+    a {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,15 @@
+.balance_container {
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+ul li {
+    list-style-type: none;
+}
+  
+.balance_container p {
+    font-size: 20px;
+    color: #333;
+    margin: 10px 0;
+}

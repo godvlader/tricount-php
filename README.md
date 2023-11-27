@@ -33,5 +33,5 @@ Tricount is a dynamic application developed to facilitate easy and fair expense 
   - Ensures data integrity and user input validation with JustValidate
 
 ## Getting Started
-Plug and play basically.
+Plug and play basically, you just need your own database.
 
